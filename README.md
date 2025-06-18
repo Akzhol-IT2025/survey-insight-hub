@@ -24,7 +24,7 @@ A full-stack web application for survey creation, response collection, and autom
     - `npm install`
     - `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [[http://localhost:3000](http://localhost:3000)](http://172.20.10.4:3000) in your browser.
 
 ---
 
